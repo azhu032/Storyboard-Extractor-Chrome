@@ -1,33 +1,23 @@
-# Node dependencies
+# Node modules
 node_modules/
-package-lock.json
-npm-debug.log
-yarn.lock
 
-# Build outputs
+# Build output
 dist/
 release/
-*.exe
-*.msi
-*.zip
 
-# Tauri / Rust target files
-src-tauri/target/
-src-tauri/Cargo.lock
-
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# Editor settings
+# IDE files
 .vscode/
 .idea/
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
 
-# Chrome extension temporary files
-*.crx
-*.pem
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
