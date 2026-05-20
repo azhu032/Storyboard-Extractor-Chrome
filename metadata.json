@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 分镜提取器2.4",
+  "description": "用于制作谷歌浏览器插件",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
