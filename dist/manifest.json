@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Remix: 分镜提取器2.4",
+  "version": "2.4.0",
+  "description": "谷歌浏览器插件：快速从草稿或任意图片中自动识别、裁剪、自定义排序并组合分镜图。",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "clipboardWrite"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
